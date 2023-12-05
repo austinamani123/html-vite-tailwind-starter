@@ -1,8 +1,8 @@
-# HTML+Tailwind+Vite Starter
+# Data Manage Website
 
 ## Summary
 
-This starter template is for automating the process of building small or static website projects.
+This is my first React, Tailwind and Vite project
 
 Tailwind CSS is set up and configured with Vite.JS - a rapid development tool for modern web projects that focuses on speed and performance by improving the development experience.
 
@@ -19,23 +19,24 @@ git clone {{ git repository }} {{ working project folder }}
 3. Open a new terminal in Visual Studio Code and install the project dependencies
 
 ```
-yarn
+pnpm i
 ```
 
 4. Run the project using the Vite.JS server
 
 ```
-yarn dev
+pnpm dev
 ```
 
 5. Optimize for production
 
 ```
-yarn build
+pnpm build
 ```
 
 ## Technologies Used
 
 1. HTML
 2. Tailwind CSS
-3. Vite.JS
+3. React JS
+4. Vite.JS
